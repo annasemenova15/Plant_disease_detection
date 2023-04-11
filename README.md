@@ -1,6 +1,6 @@
-# Plant disease detection
+# Plant disease classification
 
-## The project is dedicated to plant disease detection, which is a multiclassification task. 
+## The project is dedicated to plant disease classification, which is a multiclassification task. 
 
 The model that predicts what disease a plant is affected by (if any) brings several interrelated values to the agriculture industry. It helps to save some part of the harvest by detecting the existence of disease, allowing us to take actions timely and cure the plant. In turn it would reduce the cost which usually arises when a part of the crops are dying. In addition, it saves the human workforce, because there would be no need to manually check if the plant is healthy, and the process would be automated. 
 
