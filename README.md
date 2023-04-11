@@ -10,3 +10,4 @@ For the key metric of the model we use macro F1 score because it performs better
 
 For the project [dataset](https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset) from Kaggle was used.
 
+For more details: [report](https://docs.google.com/document/d/1vMK9aYg-x-QjHLC3myyAG3CdztyPL5iZyizEi1EB3vA/edit)
