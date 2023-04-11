@@ -10,4 +10,15 @@ For the key metric of the model we use macro F1 score because it performs better
 
 For the project [dataset](https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset) from Kaggle was used.
 
-For more details: [report](https://docs.google.com/document/d/1vMK9aYg-x-QjHLC3myyAG3CdztyPL5iZyizEi1EB3vA/edit)
+## The results
+
+We applied Transfer Learning, in particular:
+* MobileNetV2
+* VGG16
+* ResNet50
+
+We also tried 3 additional experiments with MobileNetV2 and data augmentation.
+
+The best performing model that should be implemented is MobileNetV2 without data augmentation, with f1-score 0.9476.
+
+For more details refer to: [report](https://docs.google.com/document/d/1vMK9aYg-x-QjHLC3myyAG3CdztyPL5iZyizEi1EB3vA/edit)
