@@ -6,11 +6,11 @@ The model that predicts what disease a plant is affected by (if any) brings seve
 
 We could potentially estimate the exact financial effect of this project by focusing on the false negatives, since in our case the situation when we do not identify a disease leads to the loss of a plant and of a potential revenue. 
 
-For the key metric of the model we use macro F1 score because it performs better with imbalanced data. It gives equal importance to each class.
+For the key metric of the model we use macro f1-score because it performs better with imbalanced data. It gives equal importance to each class.
 
 For the project [dataset](https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset) from Kaggle was used.
 
-## The results
+## The results that were obtained
 
 We applied Transfer Learning, in particular:
 * MobileNetV2
