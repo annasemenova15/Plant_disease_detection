@@ -21,4 +21,9 @@ We also tried 3 additional experiments with MobileNetV2 and data augmentation.
 
 The best performing model that should be implemented is MobileNetV2 without data augmentation, with f1-score 0.9476.
 
-For more details refer to: [report](https://docs.google.com/document/d/1vMK9aYg-x-QjHLC3myyAG3CdztyPL5iZyizEi1EB3vA/edit)
+For more details refer to: [report](https://docs.google.com/document/d/1iJiMktWUZXydXqZtNnIwS2_R5t52qz3mQrxV4VnlzuE/edit)
+
+## Contributors for this project are:
+- ![Anna Semenova](https://disk.yandex.ru/i/G_GCKlXwTsEBiQ)
+- ![Elizaveta Sivash](https://disk.yandex.ru/i/XZd2MBM1aA4pYQ)
+- ![Anastasiia Panchenko](https://disk.yandex.ru/i/6E9MxUe70z7zIA)
