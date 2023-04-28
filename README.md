@@ -19,12 +19,6 @@ For the key metric of the model we use macro f1-score because it performs better
 
 For the project [dataset](https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset) from Kaggle was used.
 
-There are examples of data:
-![Examples of data](https://github.com/annasemenova15/Plant_disease_detection/tree/main/images/example of data.png) 
-
-There is distribution of classes for Plants and Diseases:
-![Distribution of classes for Plants and Diseases](https://github.com/annasemenova15/Plant_disease_detection/tree/main/images/example of data.png) 
-
 ## The results that were obtained
 
 We applied Transfer Learning, in particular:
@@ -51,8 +45,3 @@ For more details refer to model detailed: [report](https://docs.google.com/docum
 - Anna Semenova
 - Elizaveta Sivash
 - Anastasiia Panchenko
-
-
-Anna Semenova                                                                           | Elizaveta Sivash                                                                 |  Anastasiia Panchenko
-:--------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------:
-![](https://github.com/annasemenova15/Plant_disease_detection/tree/main/images/Anna.png)|  ![](https://github.com/annasemenova15/Plant_disease_detection/tree/main/images/Elizaveta.png)|  ![](https://github.com/annasemenova15/Plant_disease_detection/tree/main/images/Anastasiia.png)
