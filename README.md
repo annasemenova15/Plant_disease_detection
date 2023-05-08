@@ -43,5 +43,11 @@ For more details refer to model detailed: [report](https://docs.google.com/docum
 
 ## Contributors for this project are students of 2nd year of Business analytics and Big Data Master's program:
 - Anna Semenova
+
+![alt text](https://github.com/annasemenova15/Plant_disease_detection/blob/main/images/Anna.png)
 - Elizaveta Sivash
+
+![](https://github.com/annasemenova15/Plant_disease_detection/blob/main/images/Elizaveta.png)
 - Anastasiia Panchenko
+
+![](https://github.com/annasemenova15/Plant_disease_detection/blob/main/images/Anastasiia.png)
