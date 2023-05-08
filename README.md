@@ -16,7 +16,13 @@ We could potentially estimate the exact financial effect of this project by focu
 For the key metric of the model we use macro f1-score because it performs better with imbalanced data. It gives equal importance to each class.
 
 ## Data
+The data is represented by pictures of plants (with 256x256 pixels) and their names and names of their diseases. 
 
+![](https://github.com/annasemenova15/Plant_disease_detection/blob/main/images/eda2.png)
+
+The data is indeed imbalanced, because there are some classes that prevail.
+
+![](https://github.com/annasemenova15/Plant_disease_detection/blob/main/images/eda1.png)
 For the project [dataset](https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset) from Kaggle was used.
 
 ## The results that were obtained
