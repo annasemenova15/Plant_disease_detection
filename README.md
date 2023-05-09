@@ -5,6 +5,7 @@ This README.md file contains information about:
 * source data
 * results that were obtained
 * contributors
+* model usage
 
 ## The goal of the project was:
 * To build a model for plant disease classification (to solve a multiclass classification task).
@@ -58,3 +59,6 @@ For more details refer to model detailed: [report](https://docs.google.com/docum
 - Anastasiia Panchenko
 
 ![](https://github.com/annasemenova15/Plant_disease_detection/blob/main/images/Anastasiia.png)
+
+## Model usage
+In order to apply the model and to get classification of the disease, you need to download the model, then upload there a picture of plant, which you want to check for disease and get the result after running the model.
